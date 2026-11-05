@@ -5,7 +5,8 @@ export interface MiniAppConfig {
 export const MINI_APPS: MiniAppConfig[] = [
 	{ url: 'https://leafy-biscotti-4e9fc8.netlify.app/' },
 
-	// Add your Mini App here:
+
+	{ url: 'https://cybercityarcade.com/miniapps/cyber-galaxy' },
 	// { url: 'https://your-miniapp.example.com/' },
 ]
 
