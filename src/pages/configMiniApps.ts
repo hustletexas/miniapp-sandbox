@@ -6,7 +6,7 @@ export const MINI_APPS: MiniAppConfig[] = [
 	{ url: 'https://leafy-biscotti-4e9fc8.netlify.app/' },
 
 
-	{ url: 'https://cybercityarcade.com/miniapps/cyber-galaxy' },
+{ url: 'https://id-preview--f7d633f0-0387-4f77-8958-f5eb28cca585.lovable.app/cyber-galaxy' },
 	// { url: 'https://your-miniapp.example.com/' },
 ]
 
